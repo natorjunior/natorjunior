@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Olá, meu nome é Nator Junior 👋. 
+<p align="center"> 
+ Contador de visitas <br>
+  <img src="https://profile-counter.glitch.me/natorjunior/count.svg" />
+</p>
 <div align="center">
   <a href="https://github.com/natorjunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natorjunior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
