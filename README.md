@@ -18,20 +18,27 @@ Here are some ideas to get you started:
  Contador de visitas <br>
   <img src="https://profile-counter.glitch.me/natorjunior/count.svg" />
 </p>
+
+
 <div align="center">
-  <a href="https://github.com/natorjunior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natorjunior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natorjunior&layout=compact&langs_count=7&theme=tokyonight"/>
+ 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natorjunior&theme=gruvbox)
+ 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=natorjunior&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=natorjunior&theme=gruvbox)
+
 </div>
 
   
   
   <div style="display: inline_block"><br>
       <img align="center" alt="Nator-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    
+      <img align="center" alt="Nator-fastapi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
+      <img align="center" alt="Nator-fastapi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+      <img align="center" alt="Nator-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+ 
   <img align="center" alt="Nator-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Nator-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nator-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Nator-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nator-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
