@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  <div style="display: inline_block"><br>
+     <a href='https://github.com/natorjunior/natorjunior/blob/main/README_PT_BR.MD'> <img align="center" alt="Nator-Python" height="40" width="40" src="https://raw.githubusercontent.com/natorjunior/natorjunior/main/brazil.png"> Português do Brasil  </a><br><br>
+      <a href='https://github.com/natorjunior'> <img align="center" alt="Nator-Python" height="40" width="40" src="https://raw.githubusercontent.com/natorjunior/natorjunior/main/united-states.png"> inglês dos estados unidos  </a>
+ </div>
+
+
 ## Olá, meu nome é Nator Junior 👋. 
 <p align="center"> 
  Contador de visitas <br>
