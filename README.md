@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
   <div style="display: inline_block"><br>
-     <a href='https://github.com/natorjunior/natorjunior/blob/main/README_PT_BR.MD'> <img align="center" alt="Nator-Python" height="40" width="40" src="https://raw.githubusercontent.com/natorjunior/natorjunior/main/brazil.png"></a> <br><br>
-      <a href='https://github.com/natorjunior'> <img align="center" alt="Nator-Python" height="40" width="40" src="https://raw.githubusercontent.com/natorjunior/natorjunior/main/united-states.png"></a>
+     <a href='https://github.com/natorjunior/natorjunior/blob/main/README_PT_BR.MD'> <img align="center" alt="Nator-Python" height="40" width="40" src="https://raw.githubusercontent.com/natorjunior/natorjunior/main/brazil.png">    brazilian portuguese  </a><br><br>
+      <a href='https://github.com/natorjunior'> <img align="center" alt="Nator-Python" height="40" width="40" src="https://raw.githubusercontent.com/natorjunior/natorjunior/main/united-states.png">    united states english </a>
  </div>
  
 ## Hello, my name is Nator Junior 👋. 
