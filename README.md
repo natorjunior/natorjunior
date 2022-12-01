@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  
 ## Hello, my name is Nator Junior 👋. 
 <p align="center"> 
- Contador de visitas <br>
+ Visitor counter <br>
   <img src="https://profile-counter.glitch.me/natorjunior/count.svg" />
 </p>
 
