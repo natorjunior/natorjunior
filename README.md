@@ -1,4 +1,3 @@
-
 <!--
 **natorjunior/natorjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Olá, meu nome é Nator Junior 👋. 
+
+  <div style="display: inline_block"><br>
+     <a href='https://github.com/natorjunior/natorjunior/blob/main/README_PT_BR.MD'> <img align="center" alt="Nator-Python" height="40" width="40" src="https://raw.githubusercontent.com/natorjunior/natorjunior/main/brazil.png"></a> <br><br>
+      <a href='https://github.com/natorjunior'> <img align="center" alt="Nator-Python" height="40" width="40" src="https://raw.githubusercontent.com/natorjunior/natorjunior/main/united-states.png"></a>
+ </div>
+ 
+## Hello, my name is Nator Junior 👋. 
 <p align="center"> 
  Contador de visitas <br>
   <img src="https://profile-counter.glitch.me/natorjunior/count.svg" />
