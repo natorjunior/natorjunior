@@ -13,9 +13,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <div style="display: inline_block"><br>
-     <a href='https://github.com/natorjunior/natorjunior/blob/main/README_PT_BR.MD'> <img align="center" alt="Nator-Python" height="40" width="40" src="https://raw.githubusercontent.com/natorjunior/natorjunior/main/brazil.png">    Brazilian Portuguese  </a><br><br>
-      <a href='https://github.com/natorjunior'> <img align="center" alt="Nator-Python" height="40" width="40" src="https://raw.githubusercontent.com/natorjunior/natorjunior/main/united-states.png">    United States English </a>
+
+<div style="display: inline_block"><br>
+  <table> 
+    <tr>
+    <th>Versions</th>
+    <th>RBFNN</th>
+  </tr>
+    <tr>
+    <td>
+<a href='https://github.com/natorjunior/natorjunior/blob/main/README_PT_BR.MD'> 
+       <img align="center" alt="Nator-Python" height="40" width="40" src="https://raw.githubusercontent.com/natorjunior/natorjunior/main/brazil.png">              Brazilian Portuguese  
+  </a><br><br>
+  <a href='https://github.com/natorjunior'> <img align="center" alt="Nator-Python" height="40" width="40" src="https://raw.githubusercontent.com/natorjunior/natorjunior/main/united-states.png">
+    United States English </a>
+      </td>
+    <td> <a href='https://github.com/natorjunior/RBFN'> <div align="center"> Project </div> <br>Radial Bases Neural Network </a> </td>
+  </tr>
+  </table>
+
  </div>
  
 ## Hello, my name is Nator Junior 👋. 
