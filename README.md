@@ -20,6 +20,7 @@ Here are some ideas to get you started:
     <th>Versions</th>
     <th>RBFNN</th>
     <th>NatorMaps</th>
+    <th>AIMA</th>
   </tr>
     <tr>
     <td>
@@ -30,7 +31,8 @@ Here are some ideas to get you started:
     United States English </a>
       </td>
     <td> <a href='https://github.com/natorjunior/RBFN'> <div align="center"> Project </div> <br>Radial Bases Neural Network </a> </td>
-    <td> <a href='https://github.com/natorjunior/NatorMaps'> <div align="center"> Project </div> <br>NatorMaps - Maps copyright lib </a> </td>
+    <td> <a href='https://github.com/natorjunior/NatorMaps'> <div align="center"> NatorMaps </div> <br> Maps copyright lib </a> </td>
+    <td> <a href='https://github.com/natorjunior/AIMA'> <div align="center"> AIMA </div> <br> AIMA, Artificial Intelligence. Chapter 17 Value Interaction Algorithm in Python </a> </td>
   </tr>
   </table>
 
