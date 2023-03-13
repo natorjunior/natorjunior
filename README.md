@@ -19,6 +19,7 @@ Here are some ideas to get you started:
     <tr>
     <th>Versions</th>
     <th>RBFNN</th>
+    <th>NatorMaps</th>
   </tr>
     <tr>
     <td>
@@ -29,6 +30,7 @@ Here are some ideas to get you started:
     United States English </a>
       </td>
     <td> <a href='https://github.com/natorjunior/RBFN'> <div align="center"> Project </div> <br>Radial Bases Neural Network </a> </td>
+    <td> <a href='https://github.com/natorjunior/NatorMaps'> <div align="center"> Project </div> <br>NatorMaps - Maps copyright lib </a> </td>
   </tr>
   </table>
 
