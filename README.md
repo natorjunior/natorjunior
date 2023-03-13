@@ -32,7 +32,7 @@ Here are some ideas to get you started:
       </td>
     <td> <a href='https://github.com/natorjunior/RBFN'> <div align="center"> Project </div> <br>Radial Bases Neural Network </a> </td>
     <td> <a href='https://github.com/natorjunior/NatorMaps'> <div align="center"> NatorMaps </div> <br> Maps copyright lib </a> </td>
-    <td> <a href='https://github.com/natorjunior/AIMA'> <div align="center"> AIMA </div> <br> AIMA, Artificial Intelligence. Chapter 17 Value Interaction Algorithm in Python </a> </td>
+    <td> <a href='https://github.com/natorjunior/AIMA'> <div align="center"> AIMA </div> <br>Value Interaction Algorithm in Python </a> </td>
   </tr>
   </table>
 
