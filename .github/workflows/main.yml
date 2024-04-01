@@ -1,6 +1,7 @@
 name: Generate Datas
 
 on:
+  push: # Adicionado para executar o workflow em todo novo commit
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
   workflow_dispatch:
