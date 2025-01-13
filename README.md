@@ -83,3 +83,13 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="https://raw.githubusercontent.com/natorjunior/natorjunior/output/github-snake.svg" />
 </picture> 
 </div>
+
+
+---
+
+### Libraries and Images (docker)
+- **devOps**:
+  - [Tizen Docker CLI](https://hub.docker.com/r/natorjunior/tizen-docker-cli)
+- **IA**:  
+  - [RBFN (Neural Network)](https://github.com/natorjunior/RBFN)
+  - [NatorMaps (Data Science)](https://github.com/natorjunior/NatorMaps)
